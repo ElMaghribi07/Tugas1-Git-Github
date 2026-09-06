@@ -1,6 +1,7 @@
 #Tugas1-Git-Github
 
 # Deskripsi Project
+
 **Judul:** Sistem Informasi Penjadwalan untuk lembaga kursus Kampung Inggris Solo Plus.
 **Deskripsi:** Kampung Inggris Solo Plus merupakan pendidikan dan pelatihan bahasa inggris terpada, dengan penekanan khusus pada praktik speaking, public speaking, percakapan, hingga peningkatan kapasitas SDM dan pelatihan guru.
 **Kekurangan:** Lembaga ini masih memiliki penjadwalan yang manual dan tidak terintegrasi dalam satu sistem.
